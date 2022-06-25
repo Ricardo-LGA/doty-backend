@@ -6,6 +6,7 @@ DOTY is the final project from IronHack Web Development Bootcamp. It is a plataf
 It was made using React.js, MongoDB and Express.
 
 Frontend: https://github.com/bmortella/doty-frontend
+
 Deploy: https://62b69f80232d3435199e9a4d--aesthetic-mochi-7faae1.netlify.app/
 
 
